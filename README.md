@@ -1,4 +1,4 @@
-# YoloV3
+# using YoloV3 for custom gun detection in image or video
 ________
 YoloV3 Simplified for training on Colab with custom dataset. 
 
